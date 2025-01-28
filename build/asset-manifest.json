@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.039bf95e.css",
+    "main.js": "/static/js/main.241ed75c.js",
+    "static/media/alok.jpg": "/static/media/alok.3a94b6f38928ce897329.jpg",
+    "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Alok Ranjan - Resume7.pdf": "/static/media/Alok Ranjan - Resume7.bdc39c29c10a69bfb642.pdf",
+    "static/media/illustration.svg": "/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
+    "static/media/node-icon.svg": "/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/typescript-icon.svg": "/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "static/media/bootstrap-icon.svg": "/static/media/bootstrap-icon.09b773cc0f17dc078cc9864e5e8006ba.svg",
+    "static/media/react-icon.svg": "/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.45bf2371ee6528cc27d66c08f8e43356.svg",
+    "static/media/instagram.svg": "/static/media/instagram.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/phone-icon.svg": "/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/shopify.svg": "/static/media/shopify.6844408d4c13f2222031ef679e05c95e.svg",
+    "static/media/github.svg": "/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/external-link.svg": "/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
+    "static/media/html-icon.svg": "/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
+    "static/media/css-icon.svg": "/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
+    "static/media/wordpress.svg": "/static/media/wordpress.19efd7af1fafc38a53600387f0821d3d.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/js-icon.svg": "/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
+    "static/media/vue-icon.svg": "/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
+    "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
+    "main.241ed75c.js.map": "/static/js/main.241ed75c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.241ed75c.js"
+  ]
+}
